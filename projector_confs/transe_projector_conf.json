@@ -10,16 +10,16 @@
     {
       "tensorName": "FB15K_PR_10_TRANSE",
       "tensorShape": [ 14840, 100 ],
-      "tensorPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/FB15K_PR_100/transe/FB15K_PR_10_transe_embeddings.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/FB15K_PR_100/FB15K_PR_10_entity_info.tsv",
-      "bookmarksPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/FB15K_PR_100/transe/FB15K_PR_10_transe_state.txt"
+      "tensorPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/FB15K_PR_10/transe/FB15K_PR_10_transe_embeddings.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/FB15K_PR_10/FB15K_PR_10_entity_info.tsv",
+      "bookmarksPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/FB15K_PR_10/transe/FB15K_PR_10_transe_state.txt"
     },
     {
       "tensorName": "FB15K_PR_25_TRANSE",
       "tensorShape": [ 14665, 100 ],
-      "tensorPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/FB15K_PR_100/transe/FB15K_PR_25_transe_embeddings.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/FB15K_PR_100/FB15K_PR_25_entity_info.tsv",
-      "bookmarksPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/FB15K_PR_100/transe/FB15K_PR_25_transe_state.txt"
+      "tensorPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/FB15K_PR_25/transe/FB15K_PR_25_transe_embeddings.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/FB15K_PR_25/FB15K_PR_25_entity_info.tsv",
+      "bookmarksPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/FB15K_PR_25/transe/FB15K_PR_25_transe_state.txt"
     },
     {
       "tensorName": "FB15K_PR_100_TRANSE",
