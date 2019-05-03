@@ -25,7 +25,7 @@
       "tensorName": "FB15K_PR_100_TRANSE",
       "tensorShape": [ 14530, 100 ],
       "tensorPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/FB15K_PR_100/transe/FB15K_PR_100_transe_embeddings.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/FB15K_PR_100/FB15K_PR_100_entity_info.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/FB15K_PR_100/FB15K_PR_100_entity_info.tsv"
     }
   ]
 }
