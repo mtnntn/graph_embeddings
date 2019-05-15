@@ -12,7 +12,7 @@
       "tensorShape": [ 10300, 10 ],
       "tensorPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V1/S2_transe_embeddings.tsv",
       "metadataPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V1/S2_metadata.tsv",
-      "bookmarksPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V1/S4_transe_state.txt"
+      "bookmarksPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V1/S2_transe_state.txt"
     },
     {
       "tensorName": "SYNT3",
