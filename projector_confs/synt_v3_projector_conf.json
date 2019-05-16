@@ -1,0 +1,34 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "SYNT1",
+      "tensorShape": [ 3000, 10 ],
+      "tensorPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V3/S3_1_transe_embeddings.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V3/S3_1_metadata.tsv"
+    },
+    {
+      "tensorName": "SYNT2",
+      "tensorShape": [ 5000, 10 ],
+      "tensorPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V3/S3_2_transe_embeddings.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V3/S3_2_metadata.tsv"
+    },
+    {
+      "tensorName": "SYNT3",
+      "tensorShape": [ 7000, 10 ],
+      "tensorPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V3/S3_3_transe_embeddings.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V3/S3_3_metadata.tsv"
+    },
+    {
+      "tensorName": "SYNT4",
+      "tensorShape": [ 9000, 10 ],
+      "tensorPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V3/S3_4_transe_embeddings.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V3/S3_4_metadata.tsv"
+    },
+    {
+      "tensorName": "SYNT5",
+      "tensorShape": [ 11000, 10 ],
+      "tensorPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V3/S3_5_transe_embeddings.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V3/S3_5_metadata.tsv"
+    }
+  ]
+}
