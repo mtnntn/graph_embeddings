@@ -4,7 +4,8 @@
       "tensorName": "SYNT1",
       "tensorShape": [ 10100, 10 ],
       "tensorPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V2/S2_1_transe_embeddings.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V2/S2_1_metadata.tsv"
+      "metadataPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V2/S2_1_metadata.tsv",
+      "bookmarksPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V2/S2_1_transe_state.txt"
     },
     {
       "tensorName": "SYNT2",
@@ -34,7 +35,9 @@
       "tensorName": "SYNT6",
       "tensorShape": [ 14000, 10 ],
       "tensorPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V2/S2_6_transe_embeddings.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V2/S2_6_metadata.tsv"
+      "metadataPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V2/S2_6_metadata.tsv",
+      "bookmarksPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V2/S2_6_transe_state.txt"
+    }
     }
   ]
 }
