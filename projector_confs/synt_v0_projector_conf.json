@@ -1,0 +1,40 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "SYNT1",
+      "tensorShape": [ 4, 2 ],
+      "tensorPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V0/S0_1_transe_embeddings.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V0/S0_1_metadata.tsv"
+    },
+    {
+      "tensorName": "SYNT2",
+      "tensorShape": [ 5, 2 ],
+      "tensorPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V0/S0_2_transe_embeddings.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V0/S0_2_metadata.tsv"
+    },
+    {
+      "tensorName": "SYNT3",
+      "tensorShape": [ 6, 2 ],
+      "tensorPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V0/S0_3_transe_embeddings.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V0/S0_3_metadata.tsv"
+    },
+    {
+      "tensorName": "SYNT4",
+      "tensorShape": [ 7, 2 ],
+      "tensorPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V0/S0_4_transe_embeddings.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V0/S0_4_metadata.tsv"
+    },
+    {
+      "tensorName": "SYNT5",
+      "tensorShape": [ 8, 2 ],
+      "tensorPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V0/S0_5_transe_embeddings.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V0/S0_5_metadata.tsv"
+    },
+    {
+      "tensorName": "SYNT6",
+      "tensorShape": [ 10, 2 ],
+      "tensorPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V0/S0_6_transe_embeddings.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/mtnntn/graph_embeddings/master/embeddings/SYNT_V0/S0_6_metadata.tsv"
+    }
+  ]
+}
